@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @SuhaanSR
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Ionic development angular
-- 💞️ I’m looking to collaborate on developing Google Maps integration
-- 📫 How to reach me - suhaan.sr.dev@gmail.com
+- 👀 I’m interested in AI, and full stack development
+- 📫 How to reach me - suhaansrdev@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm 12 years old
+- ⚡ Fact: I'm 14 years old
 
 <!---
 SuhaanSR/SuhaanSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
